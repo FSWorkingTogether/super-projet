@@ -25,7 +25,7 @@ p {
 }
 body {
   min-height: 100vh;
-  background: purple;
+  background: rgb(145, 92, 145);
   color: rgb(254, 254, 254);
 }
 nav {
